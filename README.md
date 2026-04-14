@@ -16,5 +16,5 @@ Chapter 5:
 Figure 5.7 = SR_Latch_Basic.m
 Figure 5.8 = SR_Latch_Flicker.m
 Figure 5.10 = Stochastic_FHN.m
-Figure 5.11 / Figure 5.12 =  SR_Latch_Noisy.m & SR_Latch_Noisy_Flicker.m (For the results in Figures 5.11 / 5.12 to be produced the synaptic weights and magnitude of noise added must be altered). 
+Figure 5.11 / Figure 5.12 =  SR_Latch_Noisy.m & SR_Latch_Noisy_Flicker.m (For the results in Figures 5.11 / 5.12 to be produced the synaptic weights and magnitude of noise added must be altered to those referenced within the report). 
 Figure 5.13 = SR_Latch_Noisy.m & SR_Latch_Noisy_Flicker.m
