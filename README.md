@@ -1,0 +1,1 @@
+Within this GitHub repository there are three different branches in which the different codes utilised throughout chapters three, four and five of my final year project, centered on oscillatory threshold computing, can be found. 
