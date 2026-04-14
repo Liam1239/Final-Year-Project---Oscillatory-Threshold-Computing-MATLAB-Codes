@@ -36,7 +36,6 @@ I = [0 0 0 0 0 0 0 0 0 0 % 0 active inputs.
 
 
 m = -100; % Used in Activation Function.
-p = 60; % Used in Activation Function. 
 
 p = [60 60 60 60 60 60 60 60 60 75]'; % Used in the activation function, but altered for this implementation of OTC. 
 yinit = zeros(size(mat,1)*2,1); % Both fast and slow variables for all oscillators will initially be set to zero. 
