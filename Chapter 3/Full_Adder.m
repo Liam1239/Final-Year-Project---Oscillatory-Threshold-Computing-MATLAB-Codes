@@ -1,4 +1,4 @@
-tmax=1000;
+tmax=500;
 tspan=[0 tmax]; % Timespan for solving the system. 
 
 e1 = 0.7; % Synaptic weights applied to the outputs of I_1, I_2 & I_3 to O_1. 
